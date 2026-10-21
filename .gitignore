@@ -1,0 +1,16 @@
+# Audio output + personal content — this repo is the tooling only
+*.mp3
+*.wav
+episodes/
+scripts/
+
+# Secrets
+.elevenlabs_key
+*.key
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
