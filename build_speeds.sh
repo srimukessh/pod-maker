@@ -1,4 +1,8 @@
 #!/usr/bin/env bash
+# Copyright (c) 2026 Srimukessh Subramanian. All rights reserved.
+# Reference/portfolio viewing only — NOT open source. No permission to copy, use,
+# run, modify, or redistribute. See LICENSE. Contact: srimukessh1994@gmail.com
+#
 # Per-show speed folders. Each show has a 1x/ folder of full-speed masters;
 # this derives a <speed>x/ folder beside it for every speed listed below.
 # Only re-times (preserves pitch) — no ElevenLabs credits are spent here.

@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Copyright (c) 2026 Srimukessh Subramanian. All rights reserved.
+# Reference/portfolio viewing only — NOT open source. No permission to copy, use,
+# run, modify, or redistribute. See LICENSE. Contact: srimukessh1994@gmail.com
 """Render a quiz MP3: Alice asks each question, 8s think-pause, Daniel answers.
 
 Script format (scripts/quiz_mcp.md):
