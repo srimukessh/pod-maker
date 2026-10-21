@@ -3,6 +3,11 @@
 Turn a two-voice (or multi-voice) markdown script into a single MP3 via [ElevenLabs](https://elevenlabs.io).
 Built for long-form explainer / interview-prep "podcasts" you can listen to on repeat.
 
+> ⛔ **All rights reserved — look, don't copy.** This repo is public for reference/portfolio
+> purposes only. It is **not** open source: no permission is granted to copy, fork, run, reuse,
+> or build on this code. See [`LICENSE`](LICENSE). Want to use any of it? Ask first:
+> srimukessh1994@gmail.com
+
 ## What's here
 
 | File | Does |
